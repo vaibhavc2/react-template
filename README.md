@@ -1,6 +1,6 @@
-# Vite-React-Typescript-Tailwind
+# React Template
 
-This is a template repository to create a project using Vite, React, Typescript, and TailwindCSS. It comes with a built-in dark-mode switcher for the website!
+This is a template repository to create a project using Vite, React, Typescript, and TailwindCSS.
 
 Get started:
 
